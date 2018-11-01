@@ -3,7 +3,7 @@
 
 *Introductory - Intermediate level SQL*
 
---
+> Answers to the questions below can be found in the [Part 3 Notebook](09_part_iii_soccer.ipynb)
 
 Please complete this exercise using sqlite3 and Jupyter notebook.
 
