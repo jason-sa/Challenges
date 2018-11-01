@@ -3,7 +3,7 @@
 
 *Intermediate - Advanced level SQL*
 
----
+> Answers to these questions can be found [here](Part_4_SQL_answers.md)
 
 ### Acquire data ###
 
