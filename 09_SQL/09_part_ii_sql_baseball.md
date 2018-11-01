@@ -3,7 +3,7 @@
 
 *Introductory - Intermediate level SQL*
 
---
+> Answers to the questions below can be found in the [Part 2 Notebook](09_part_ii_baseball.ipynb)
 
 Please complete this exercise via SQLalchemy and Jupyter notebook.
 
